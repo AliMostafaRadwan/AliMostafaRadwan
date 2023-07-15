@@ -38,36 +38,31 @@ hobbies: ["Gaming", "Competitive Gaming", "IoT"]
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AliMostafaRadwan&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C294%20hrs%201%20min-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-774016%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 325.1 kB Used in GitHub's Storage 
+
  > 
-> 🏆 423 Contributions in the Year 2023
+> 📜 50 Public Repositories 
  > 
-> 💼 Opted to Hire
- > 
-> 📜 44 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                245 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-🌆 Daytime                1885 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
-🌃 Evening                2531 commits        ███████████░░░░░░░░░░░░░░   45.26 % 
-🌙 Night                  931 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+🌞 Morning                2 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   
+🌆 Daytime                13 commits         ████████░░░░░░░░░░░░░░░░░   
+🌃 Evening                124 commits        ███████████░░░░░░░░░░░░░░   
+🌙 Night                  8 commits          ████░░░░░░░░░░░░░░░░░░░░░  
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Dubai
+🕑︎ Time Zone: ismailia/Egypt
 
 💬 Programming Languages: 
 Python                   2 hrs 28 mins       █████████████████████████   98.08 % 
@@ -76,8 +71,8 @@ C                        0 secs              ░░░░░░░░░░░�
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-reverse_invest           2 hrs 30 mins       █████████████████████████   99.53 % 
-swarm_mission            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+AI-Powerd-LMS           2 hrs 30 mins       █████████████████████████   99.53 % 
+LLM            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 
@@ -86,18 +81,7 @@ swarm_mission            0 secs              ░░░░░░░░░░░�
 
 <!--START_SECTION:waka-simple-->
 
-```text
-From: 16 July 2020 - To: 14 July 2023
 
-Total Time: 1,296 hrs 29 mins
-
-C++                383 hrs 28 mins ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.58 %
-Go                 313 hrs 18 mins ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.17 %
-Python             190 hrs 16 mins ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.68 %
-C                  88 hrs 40 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.84 %
-Bash               78 hrs 16 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.04 %
-YAML               60 hrs 25 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.66 %
-```
 
 <!--END_SECTION:waka-simple-->
 
