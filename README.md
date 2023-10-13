@@ -21,7 +21,7 @@ name: Ali Radwan
 located_in: ismailia, EGY
 from: Egypt
 job: Machine Learning Engineer
-education: ["communication engineering student"]
+education: ["Telecommunication engineering student"]
 fields_of_interests: ["reinforcement learning", "Computer Vision", "Optimizationz", "Geographic Information Systems(GIS)", 
                       "Localization", "Sensor Fusion", "Robotics"]
 technical_background: ["Machine Learning", "Optimization", 
