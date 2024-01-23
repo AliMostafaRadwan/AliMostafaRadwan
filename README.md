@@ -1,5 +1,5 @@
 <a href="https://wakatime.com/@4995feca-55c0-4abe-a4ea-8e01489936d0"><img src="https://wakatime.com/badge/user/4995feca-55c0-4abe-a4ea-8e01489936d0.svg" alt="Total time coded since Feb 20 2022" /></a>
-[![portofolio](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=portfolio&up_color=blue&up_message=online&url=https%3A%2F%2Faliradwan.netlify.app%2F)](https://[aliradwan.netlify.app/](https://alimostafacv.netlify.app))
+
 
 <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
