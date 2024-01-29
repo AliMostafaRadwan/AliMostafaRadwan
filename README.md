@@ -22,11 +22,11 @@ located_in: ismailia, EGY
 from: Egypt
 job: Machine Learning Engineer
 education: ["Telecommunication engineering student"]
-fields_of_interests: ["reinforcement learning", "Computer Vision", "Optimizationz", "Geographic Information Systems(GIS)", 
+fields_of_interests: ["reinforcement learning", "Computer Vision", "Optimizationz", "SLAM", 
                       "Localization", "Sensor Fusion", "Robotics"]
 technical_background: ["Machine Learning", "Optimization", 
                        "Computer Vision", "Real-Time Systems", "Deep Learning", "Image Classification", "Neural Networks", "Block Chains"]
-currently_learning: ["reinforcement learning", "Control Theory", "Rust Lang", "Quantization", "SLAM"]
+currently_learning: ["reinforcement learning", "Control Theory", "Rust Lang", "Quantization"]
 will_learn: ["RUST"]
 hobbies: ["Gaming", "Competitive Gaming", "IoT"]
 ```
