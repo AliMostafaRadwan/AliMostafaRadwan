@@ -28,7 +28,7 @@ technical_background: ["Machine Learning", "Optimization",
                        "Computer Vision", "Real-Time Systems", "Deep Learning", "Image Classification", "Neural Networks", "Block Chains"]
 currently_learning: ["reinforcement learning", "Control Theory", "Rust Lang", "Quantization"]
 will_learn: ["RUST"]
-hobbies: ["Gaming", "Competitive Gaming", "IoT"]
+hobbies: ["Reading", "Competitive Gaming", "IoT"]
 ```
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AliMostafaRadwan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
