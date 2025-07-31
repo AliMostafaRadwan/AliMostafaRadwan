@@ -1,4 +1,4 @@
-<a href="https://wakatime.com/@4995feca-55c0-4abe-a4ea-8e01489936d0"><img src="https://wakatime.com/badge/user/4995feca-55c0-4abe-a4ea-8e01489936d0.svg" alt="Total time coded since Feb 20 2022" /></a>
+<!--a href="https://wakatime.com/@4995feca-55c0-4abe-a4ea-8e01489936d0"><img src="https://wakatime.com/badge/user/4995feca-55c0-4abe-a4ea-8e01489936d0.svg" alt="Total time coded since Feb 20 2022" /></a-->
 
 
 <p align="center">
